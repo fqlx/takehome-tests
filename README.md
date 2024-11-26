@@ -19,7 +19,7 @@ We welcome contributions from the community! If you have a coding interview test
 
 ### Anonymous Contributions
 
-If you prefer to contribute anonymously, you can email your test to [abwburns@gmail.com](mailto:abwburns@gmail.com). We will review the test and add it to the collection on your behalf, ensuring your anonymity.
+If you prefer to contribute anonymously, you can email your test to me. We will review the test and add it to the collection on your behalf, ensuring your anonymity.
 
 ### Guidelines for Contribution
 
